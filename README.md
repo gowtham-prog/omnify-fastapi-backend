@@ -13,10 +13,12 @@ This system allows users to create events, register attendees, and view attendee
 **Documentation:** Swagger / OpenAPI (auto-generated via FastAPI)
 
 ---
-### Attachments:
+### Attachments
 [Loom Video](https://www.loom.com/share/b0a819c239f448abaf9392b4d79485a0?sid=d5caac17-2a8e-48b0-bb64-2ab9d842f5f7) \
-[Backend Git Repo](https://github.com/gowtham-prog/omnify-fastapi-backend.git)
-[Swagger Docs][http://localhost:8000/docs]
+[Backend Git Repo](https://github.com/gowtham-prog/omnify-fastapi-backend.git)\
+[Frontend Git Repo](https://github.com/gowtham-prog/omnify-next-frontend.git) \
+[Swagger Docs](http://localhost:8000/docs)
+
 ## 🚀 Setup Instructions
 
 ### 1️⃣ Clone the Repository
