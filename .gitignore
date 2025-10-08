@@ -1,0 +1,21 @@
+# Ignore Alembic migrations
+/migrations/
+
+# Ignore SQLAlchemy database files
+*.db
+
+# Ignore PostgreSQL files
+/.pgx/
+
+# Ignore tests
+/tests/
+
+# Ignore __pycache__ directory
+__pycache__/
+
+venv/
+
+.env.*
+.env
+
+*.pyc
