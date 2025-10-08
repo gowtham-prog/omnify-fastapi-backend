@@ -13,15 +13,17 @@ This system allows users to create events, register attendees, and view attendee
 **Documentation:** Swagger / OpenAPI (auto-generated via FastAPI)
 
 ---
-
-
+### Attachments:
+[Loom Video](https://www.loom.com/share/b0a819c239f448abaf9392b4d79485a0?sid=d5caac17-2a8e-48b0-bb64-2ab9d842f5f7) \
+[Backend Git Repo](https://github.com/gowtham-prog/omnify-fastapi-backend.git)
+[Swagger Docs][http://localhost:8000/docs]
 ## 🚀 Setup Instructions
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/event-management-system.git
-cd event-management-system
+git clone https://github.com/gowtham-prog/omnify-fastapi-backend.git
+cd omnify-fastapi-backend
 ```
 
 ### 2️⃣ Create and Activate a Virtual Environment
@@ -227,22 +229,4 @@ To apply migrations:
 alembic upgrade head
 ```
 
----
 
-## 🎥 Loom Demo
-
-A Loom walkthrough video should show:
-
-* Server setup
-* Event creation & listing
-* Attendee registration
-* Pagination + error handling
-* Swagger docs demo
-
----
-
-## 💬 Contact
-
-**Author:** Your Name
-**Email:** [yourname@example.com](mailto:yourname@example.com)
-**GitHub:** [github.com/your-username](https://github.com/your-username)
